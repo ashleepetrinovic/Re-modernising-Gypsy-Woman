@@ -25,11 +25,10 @@ To use or remix this project:
 Open in TunePad and upload or paste the project code into a new TunePad project.
 Run the code and press “Play” to hear the full track.
 Modify instruments; Try changing the note values or beats to create a remix:
-
-  # Example: Modify bass groove
-  playNote([C, Eb], beats = 4)
-  rest(1)
-  playNote([Ab, C], beats = 3)
+# Example: Modify bass groove
+playNote([C, Eb], beats = 4)
+rest(1)
+playNote([Ab, C], beats = 3)
 
 
 Experiment:
